@@ -1,0 +1,11 @@
+div {
+  width: 100px;
+  height: 100px;
+  margin: 10px 120px ;
+  background-color: blue;
+}
+.wrapper{
+  width: 500px;
+  height: auto;
+  background-color: yellow;
+}
